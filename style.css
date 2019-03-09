@@ -1,0 +1,16 @@
+p {
+    text-align: center;
+    margin: .3vw;
+}
+textarea {
+    margin: .1vw;
+    width: 95%;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#e {
+}
+#d {
+}
